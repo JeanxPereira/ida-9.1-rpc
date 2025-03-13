@@ -30,3 +30,4 @@
 # Bullshit VS Stuff
 /.vs/
 /ida-rpc/x64/
+/x64/

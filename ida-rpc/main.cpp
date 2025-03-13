@@ -13,7 +13,7 @@
 #endif
 
 int64_t     start_time;
-const char* app_id = "1216680096501469254";
+const char* app_id = "1349778053408100414";
 
 const char* IDAP_comment = "IDA plugin by shigureJ";
 const char* IDAP_help    = "IDA plugin by shigureJ";
@@ -225,9 +225,10 @@ static plugmod_t* idaapi IDAP_init( void )
     addon.id       = "shigureJ.IDA.RPC";
     addon.name     = "IDA RPC";
     addon.producer = "shigureJ";
-    addon.url      = "https://www.github.com/offlineJ";
+    addon.url      = "https://github.com/JeanxPereira/ida-9.1-rpc";
     addon.version  = AUTO_VERSION_STR;
-    addon.freeform = "Copyright (c) 2018 shigureJ <https://keybase.io/shigurej>\n"
+    addon.freeform = "Copyright (c) 2025 JeanxPereira\n";
+    addon.freeform = "Copyright (c) 2018 shigureJ <https://keybase.io/shigurej>\n";
                      "All rights reserved.\n";
 
     register_addon( &addon );
