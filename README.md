@@ -14,5 +14,5 @@ to change options within the plugin open the plugins menu and select IDA RPC ```
 To build this solution you'll need to get a copy of the [IDA 9.1 SDK](https://my.hex-rays.com/dashboard/download-center/9.1/sdk-and-utilities), add to enviroment and include directories to Visual Studio project, compile in 64bit Release64 and your done!
 
 ## Credits
-[Fork of shikataganaii has ported to 9.1](https://github.com/shikataganaii/ida-rpc-ida9)
-[Original project](https://github.com/ntpopgetdope/ida-rpc)
+- [Fork of shikataganaii has ported to 9.1](https://github.com/shikataganaii/ida-rpc-ida9)
+- [Original project](https://github.com/ntpopgetdope/ida-rpc)
