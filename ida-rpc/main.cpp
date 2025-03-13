@@ -15,8 +15,8 @@
 int64_t     start_time;
 const char* app_id = "1349778053408100414";
 
-const char* IDAP_comment = "IDA plugin by shigureJ";
-const char* IDAP_help    = "IDA plugin by shigureJ";
+const char* IDAP_comment = "IDA plugin";
+const char* IDAP_help    = "IDA plugin";
 const char* IDAP_name    = "IDA RPC";
 const char* IDAP_hotkey  = "Ctrl-Alt-R";
 
